@@ -1,0 +1,29 @@
+commit 1f8ee645e8865da210d16275526de9e5bdee4bca
+Author: lohvin <ko3s1k@mail.ru>
+Date:   Wed Jun 13 23:31:02 2012 +0300
+
+    end of chapter 3
+
+commit 81d44aafa1b769f82c924dc731d5a7274ce57413
+Author: lohvin <ko3s1k@mail.ru>
+Date:   Wed Jun 13 21:06:31 2012 +0300
+
+    Done with static pages
+
+commit 44f4b96521eda06f522716f2299301f7452038e2
+Author: lohvin <ko3s1k@mail.ru>
+Date:   Tue Jun 12 21:09:08 2012 +0300
+
+    Added a Pages controller
+
+commit 46d6d975ca88d3903495d767070dbf1d47c90df1
+Author: lohvin <ko3s1k@mail.ru>
+Date:   Tue Jun 12 19:15:53 2012 +0300
+
+    Improved the README
+
+commit 836088448ba5a03a46de4d257af71d0a266b4a9a
+Author: lohvin <ko3s1k@mail.ru>
+Date:   Tue Jun 12 19:12:05 2012 +0300
+
+    Initial commit
