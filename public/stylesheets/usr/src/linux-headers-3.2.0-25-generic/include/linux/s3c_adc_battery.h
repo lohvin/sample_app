@@ -1,0 +1,1 @@
+../../../linux-headers-3.2.0-25/include/linux/s3c_adc_battery.h
